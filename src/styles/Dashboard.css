@@ -1,0 +1,27 @@
+.dashboard {
+    background-color: #F6F6F6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.dashboard nav {
+    background-color: #A8201A;
+    color: #FFF;
+    padding: 12px;
+    font-weight: 600;
+}
+
+.dashboard .content {
+    width: 90%;
+    height: 400px;
+    background-color: #FFF;
+    align-self: center;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+}
