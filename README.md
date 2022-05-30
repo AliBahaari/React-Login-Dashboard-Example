@@ -1,4 +1,4 @@
-# React-Login-Dashboard-Example
+# React Login Dashboard Example
 
 This repository is a React example of how to create a simple login and dashboard for admins without Redux and along with a simple error for incorrect username or password.
 ## Screenshots
